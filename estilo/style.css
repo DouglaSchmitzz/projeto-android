@@ -93,6 +93,7 @@ header > p {
         text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.421);
 }
 
+/*Menu*/
 nav {
         background-color: var(--cor5);
         padding: 10px;
@@ -113,7 +114,7 @@ nav > a:hover {
         color: var(--cor5);
 } 
 
-
+/*Principal*/
 main {
        background-color: white;
        min-width: 300px;
@@ -143,6 +144,7 @@ main h2 {
         
 }
 
+/*Media*/
 main img {
         width: 100%;
 }
@@ -190,6 +192,7 @@ aside > h3 {
        border-radius: 10px 10px 0px 0px; 
 }
 
+/*Rodapé*/
 footer {
        background-color: var(--cor5);
        color: white;
